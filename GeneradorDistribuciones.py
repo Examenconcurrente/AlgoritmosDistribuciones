@@ -23,6 +23,7 @@ plt.hist(valores_normales, bins=30, density=True, alpha=0.6, color='g')
 plt.title('Distribución Normal')
 plt.ylabel('Densidad')
 plt.xlabel('Valores')
+plt.savefig('distribucion_normal.png')
 plt.show()
 
 # Parámetros de la distribución exponencial
@@ -47,6 +48,7 @@ plt.plot(x, fp, 'r-', lw=2)
 plt.title('Distribución Exponencial')
 plt.ylabel('Densidad')
 plt.xlabel('Valores')
+plt.savefig('distribucion_exponencial.png')
 plt.show()
 
 # Parámetros de la distribución t de Student
@@ -72,4 +74,5 @@ plt.plot(x, fp, 'r-', lw=2)
 plt.title('Distribución t de Student')
 plt.ylabel('Densidad')
 plt.xlabel('Valores')
+plt.savefig('distribucion_t_student.png')
 plt.show()
