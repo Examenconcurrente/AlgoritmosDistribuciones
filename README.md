@@ -39,4 +39,4 @@ El script `GeneradorDistribuciones.py` realiza las siguientes tareas:
 ![Distribución Exponencial](images/DistribuciónExponencial.png)
 
 ### Distribución t de Student
-![Distribución t de Student](images/DistribucióntStudent.png)
+![Distribución t de Student](images/DistribucióntdeStudent.png)
