@@ -30,13 +30,13 @@ El script `GeneradorDistribuciones.py` realiza las siguientes tareas:
 - Python 3.x
 - Bibliotecas: `numpy`, `pandas`, `matplotlib`, `scipy`
 
-## Gráficas## Gráficas
+## Gráficas
 
 ### Distribución Normal
-![Distribución Normal](distribucion_normal.png)
+![Distribución Normal](images/distribucion_normal.png)
 
 ### Distribución Exponencial
-![Distribución Exponencial](distribucion_exponencial.png)
+![Distribución Exponencial](images/distribucion_exponencial.png)
 
 ### Distribución t de Student
-![Distribución t de Student](distribucion_t_student.png)
+![Distribución t de Student](images/distribucion_t_student.png)
