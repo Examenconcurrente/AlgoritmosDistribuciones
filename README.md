@@ -33,10 +33,10 @@ El script `GeneradorDistribuciones.py` realiza las siguientes tareas:
 ## Gráficas
 
 ### Distribución Normal
-![Distribución Normal](images/distribucion_normal.png)
+![Distribución Normal](images/DistribuciónNormal.png)
 
 ### Distribución Exponencial
-![Distribución Exponencial](images/distribucion_exponencial.png)
+![Distribución Exponencial](images/DistribuciónExponencial.png)
 
 ### Distribución t de Student
-![Distribución t de Student](images/distribucion_t_student.png)
+![Distribución t de Student](images/DistribucióntStudent.png)
